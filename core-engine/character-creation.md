@@ -14,7 +14,12 @@ All characters have four primary attributes:
 *   **Will**: Force of personality and mental grit.
 
 ## 3. Skills
-Choose skills that represent your character's training and experience. Skills are added to Attribute checks.
+Choose skills that represent your character's training and experience.
+
+*   **Select 2 skills** from the [Core Skill List](./skills.md) to start as **Trained (+2)**.
+*   All other skills start as **Untrained (+0)**.
+
+Your choice of skills should reflect your character's background and role in the party.
 
 ## 4. Traits
 Traits are unique abilities or background elements that give you a mechanical edge in specific situations.
