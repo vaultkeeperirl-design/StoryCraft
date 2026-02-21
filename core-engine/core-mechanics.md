@@ -3,7 +3,9 @@
 ## The Core Check
 When a character attempts a task with an uncertain outcome, they perform a **Core Check**.
 
-**Formula:** `[Attribute] + [Skill] + 1d20 vs Difficulty Class (DC)`
+**Formula:** `[Attribute] + [Skill Rank Bonus] + 1d20 vs Difficulty Class (DC)`
+
+Skills provide a bonus based on your training (Untrained +0, Trained +2, Expert +4, Master +6). See the [Core Skill List](./skills.md) for details.
 
 *   **Natural 20**: A critical success.
 *   **Natural 1**: A critical failure (or "complication").
