@@ -13,6 +13,27 @@ All characters have four primary attributes:
 *   **Intellect**: Knowledge, logic, and perception.
 *   **Will**: Force of personality and mental grit.
 
+### Assigning Scores
+At character creation, choose one of the following arrays to assign to your attributes:
+
+*   **Standard Array**: +2, +1, +1, +0
+    *(A well-rounded hero with a clear strength.)*
+*   **Specialist Array**: +3, +0, +0, -1
+    *(Highly focused talent, but with a significant weakness.)*
+*   **Versatile Array**: +1, +1, +1, +1
+    *(Competent in everything, master of nothing.)*
+
+### Attribute Scale
+| Value | Description |
+| :---: | :--- |
+| **-1** | **Weak** (Below average human capability) |
+| **+0** | **Average** (Standard human capability) |
+| **+1** | **Above Average** (Talented or trained) |
+| **+2** | **Exceptional** (Peak human potential) |
+| **+3** | **Heroic** (Beyond normal limits) |
+| **+4** | **Superhuman** (The realm of monsters and machines) |
+| **+5** | **Legendary** (Godlike power) |
+
 ## 3. Skills
 Choose skills that represent your character's training and experience.
 
