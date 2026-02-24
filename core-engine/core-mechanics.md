@@ -35,10 +35,11 @@ Sometimes external factors make a task significantly easier or harder.
 ## Conflict Resolution
 Conflict in StoryCraft isn't just about combat. It can be a heated debate, a high-speed chase, or a magical duel.
 
-### Rounds and Turns
-During a conflict, time is tracked in **Rounds**. Every character gets one **Action** and one **Move** per turn.
+For detailed rules on Initiative, Turns, Actions, and Damage, see the [Conflict Resolution](./conflict-resolution.md) guide.
 
 ## Health and Stress
 Characters track two types of wellbeing:
 1.  **Vitality**: Physical health and stamina.
 2.  **Resolve**: Mental fortitude and emotional stability.
+
+For full rules on Health, Damage, and Recovery, see the [Conflict Resolution](./conflict-resolution.md#health--recovery) guide.
