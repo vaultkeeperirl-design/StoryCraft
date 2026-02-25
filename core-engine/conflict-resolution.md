@@ -53,12 +53,13 @@ Combat follows the standard Core Check formula.
 
 **Attack Roll:** `[Attribute] + [Combat Skill] + 1d20`
 **vs.**
-**Defense (DC):** `10 + [Agility] + [Defensive Skill/Bonus]`
+**Defense (DC):** `10 + Agility + Combat Skill Rank`
 
+*   **Combat Skill Rank**: The rank of your highest relevant defensive skill (e.g., *Acrobatics* to dodge, *Melee Combat* to parry).
 *   **Melee Attacks**: Use **Might** or **Agility** (depending on weapon) vs Target's Defense.
 *   **Ranged Attacks**: Use **Agility** vs Target's Defense.
 
-*Note: Most characters calculate Defense as `10 + Agility`. Armor or Shields may modify this.*
+*Note: Defense scales with your skill to keep combat balanced. Armor or Shields may add further bonuses.*
 
 ### Damage
 If the Attack Roll equals or exceeds the Defense, the attack hits.
