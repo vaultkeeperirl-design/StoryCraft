@@ -27,6 +27,8 @@ When a character's action is directly opposed by another character (e.g., sneaki
 *   **Active vs. Reactive**: The active character rolls against the reactive character's result.
 *   **Tie goes to the Defender**: If the results are equal, the status quo is maintained (the sneaker is spotted, the grapple fails).
 
+*Note: Standard physical combat uses a **Static Defense** (DC) instead of opposed rolls. See [Conflict Resolution](./conflict-resolution.md) for details.*
+
 ### Circumstantial Modifiers
 Sometimes external factors make a task significantly easier or harder.
 *   **Advantage**: Roll 2d20 and take the **higher** result. Use this when the character has a major situational benefit (e.g., high ground, perfect tools, help from an ally).

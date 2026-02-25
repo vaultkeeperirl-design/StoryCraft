@@ -42,8 +42,16 @@ Choose skills that represent your character's training and experience.
 
 Your choice of skills should reflect your character's background and role in the party.
 
-## 4. Traits
+## 4. Derived Stats
+Calculate your secondary statistics based on your Attributes and Skills.
+
+*   **Vitality** (Physical Health): `20 + Might`
+*   **Resolve** (Mental Health): `20 + Will`
+*   **Defense** (Combat DC): `10 + Agility + Combat Skill Rank`
+    *   *Combat Skill Rank* is your rank in a relevant defensive skill (e.g., *Acrobatics*, *Melee Combat*).
+
+## 5. Traits
 Traits are unique abilities or background elements that give you a mechanical edge in specific situations.
 
-## 5. Gear
+## 6. Gear
 Start with basic equipment suitable for your setting.
