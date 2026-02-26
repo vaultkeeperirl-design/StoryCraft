@@ -19,3 +19,11 @@
 ## 2024-05-26 - Standardizing Defense Scaling
 **Learning:** Fixed Defense (10 + Agility) fails to scale with high-level Attack bonuses (Attribute + Skill), leading to a near 100% hit rate for Expert/Master characters.
 **Action:** Revised Defense formula to `10 + Agility + Combat Skill Rank`. This ensures that defensive capabilities grow alongside offensive power, maintaining a balanced success rate across all tiers of play.
+
+## 2024-05-27 - Developing the Fantasy Magic System
+**Learning:** Complex spell slot tables or point buy systems create barrier to entry and slow down play.
+**Action:** Implemented a simplified **Mana System** (Pool = Level + Attribute). This scales naturally with character progression without requiring lookup tables. Spells cost their Level in Mana, making the math instant (Rank 1 = 1 Mana).
+
+## 2024-05-27 - Modular Skill Integration
+**Learning:** Genre-specific mechanics often require skills not present in the Core Engine (e.g., Magic, Hacking).
+**Action:** Established the pattern that Setting Plug-ins can inject new skills (e.g., **Arcana**, **Faith**) into the skill list. Also reinforced using existing Core Skills (e.g., **Insight** for Elven senses) to avoid skill bloat where possible.
