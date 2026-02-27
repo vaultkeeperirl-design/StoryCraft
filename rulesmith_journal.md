@@ -27,3 +27,7 @@
 ## 2024-05-27 - Modular Skill Integration
 **Learning:** Genre-specific mechanics often require skills not present in the Core Engine (e.g., Magic, Hacking).
 **Action:** Established the pattern that Setting Plug-ins can inject new skills (e.g., **Arcana**, **Faith**) into the skill list. Also reinforced using existing Core Skills (e.g., **Insight** for Elven senses) to avoid skill bloat where possible.
+
+## 2024-05-28 - Defining Character Progression
+**Learning:** Leaving progression open-ended or purely XP-based can lead to power creep and unpredictable campaign lengths.
+**Action:** Implemented a 10-level progression scale with fixed benefit intervals (Attributes at 3/6/9, Skills at 2/5/8). This ensures a predictable power curve from "Novice" to "Legendary" while keeping math manageable and compatible across all settings.
