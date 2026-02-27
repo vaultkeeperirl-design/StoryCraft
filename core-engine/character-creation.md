@@ -55,3 +55,6 @@ Traits are unique abilities or background elements that give you a mechanical ed
 
 ## 6. Gear
 Start with basic equipment suitable for your setting.
+
+## 7. Leveling Up
+As you play, your character will gain experience and grow in power. For rules on advancing beyond level 1, see **[Character Progression](./progression.md)**.

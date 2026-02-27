@@ -7,6 +7,7 @@ The Core Engine contains the universal rules for the StoryCraft TTRPG system. Th
 1.  **[Introduction](./introduction.md)**: What is StoryCraft? The basic philosophy of the game.
 2.  **[Core Mechanics](./core-mechanics.md)**: How to roll dice, resolve checks, and handle conflict.
 3.  **[Character Creation](./character-creation.md)**: Building your hero from the ground up.
+4.  **[Character Progression](./progression.md)**: Leveling up and gaining new abilities.
 
 ## 🛠️ The Philosophy
 StoryCraft uses a modular approach. The Core Engine handles the "How" of the game, while Settings handle the "What" and "Where".
